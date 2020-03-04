@@ -74,7 +74,6 @@ body {
 
   .container2{
     background-attachment: fixed;
-    background-color:grey;
 }
 
 .card {
@@ -92,10 +91,18 @@ body {
 .container4 {
   padding: 2px 8px;
   margin: right;
-  background-color: salmon;
+  background-color: black;
 }
 
 .container5{
   background-attachment: fixed;
   background-color:darkgrey;
+}
+
+.table-bordered {
+  color:white;
+}
+
+.container6 {
+  color: white;
 }
